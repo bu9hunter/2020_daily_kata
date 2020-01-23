@@ -1,0 +1,13 @@
+다이아몬드 카타
+
+Given a letter, print a diamond starting with ‘A’ with the supplied letter at the widest point.
+ 
+For example: print-diamond ‘C’ prints
+ 
+..A
+.B.B
+C...C
+.B.B
+..A
+ 
+(The dots '.' are just placeholders for spaces ' ' to make the result more clear.)
